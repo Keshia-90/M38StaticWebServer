@@ -1,0 +1,14 @@
+*{
+    background-color: lightcoral;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    text-align: center;
+    font-size: larger;
+    color: rgb(51, 18, 83);
+}
+
